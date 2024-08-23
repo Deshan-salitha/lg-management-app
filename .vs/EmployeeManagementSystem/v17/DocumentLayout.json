@@ -1,0 +1,111 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\normal\\dell\\project\\freelance\\c#\\new folder\\employee-management-system-in-csharp-main\\employeemanagementsystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\normal\\dell\\project\\freelance\\c#\\new folder\\employee-management-system-in-csharp-main\\employeemanagementsystem\\employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|d:\\normal\\dell\\project\\freelance\\c#\\new folder\\employee-management-system-in-csharp-main\\employeemanagementsystem\\employeemanagementsystem\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\MainForm.cs",
+              "ToolTip": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T15:00:33.547Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.Designer.cs",
+              "DocumentMoniker": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "ToolTip": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T14:58:51.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ToolTip": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\EmployeeData.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAAAGAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:55:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ViewState": "AQIAAKQAAAAAAAAAAAAYwL4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:33:44.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployee.cs [Design]",
+              "DocumentMoniker": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\AddEmployee.cs",
+              "ToolTip": "D:\\normal\\dell\\project\\Freelance\\c#\\New folder\\Employee-Management-System-in-CSharp-main\\EmployeeManagementSystem\\EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "RelativeToolTip": "EmployeeManagementSystem\\AddEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T04:30:56.919Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
